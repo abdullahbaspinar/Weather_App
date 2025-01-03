@@ -1,1 +1,2 @@
-Vercel Link: https://weather-app-vert-seven-10.vercel.app
+Vercel Link: https://abdullah-baspinar-weather-app.vercel.app/
+Background gecikmeli
